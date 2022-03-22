@@ -15,4 +15,5 @@
 * Бэм
 
 **Проект**
-Ссылка на проект 
+
+Ссылка на проект https://n-rashid.github.io/russian-travel/
