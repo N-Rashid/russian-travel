@@ -1,0 +1,10 @@
+.place__description {
+  max-width: 484px;
+}
+
+@media (max-width: 425px) {
+  .place__description {
+    margin-left: 16px;
+    max-width: 288px;
+  }
+}
