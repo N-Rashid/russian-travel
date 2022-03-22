@@ -6,7 +6,7 @@
   margin: 0;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 426px) {
   .intro__title {
     font-size: 32px;
     line-height: 1.09;

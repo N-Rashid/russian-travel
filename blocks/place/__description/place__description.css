@@ -2,7 +2,7 @@
   max-width: 484px;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 426px) {
   .place__description {
     margin-left: 16px;
     max-width: 288px;
